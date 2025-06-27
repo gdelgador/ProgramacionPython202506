@@ -3,7 +3,7 @@ Ingrese la base y la altura de un triangulo, luego realice el calculo del área.
 """
 
 # 1.Ingreso de datos
-# funcion "input" -> retorna un "str", si deseo un número debo convertirlo
+# funcion "input" -> retorna un "str", si deseo un número debo convertirlo. Por ejemplo a un entero con "int"
 base_tringualo = int(input('Ingrese la base del triangulo: '))
 altura_triangulo = int(input('Ingrese la altura del triangulo: '))
 
