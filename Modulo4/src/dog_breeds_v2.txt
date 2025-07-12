@@ -1,0 +1,10 @@
+Dog race: Pug
+Dog race: Jack Russell Terrier
+Dog race: English Springer Spaniel
+Dog race: German Shepherd
+Dog race: Staffordshire Bull Terrier
+Dog race: Cavalier King Charles Spaniel
+Dog race: Golden Retriever
+Dog race: West Highland White Terrier
+Dog race: Boxer
+Dog race: Border Terrier
