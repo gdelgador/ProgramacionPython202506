@@ -1,0 +1,3 @@
+producto1,121.01
+producto2,57.55
+producto3,111.68
